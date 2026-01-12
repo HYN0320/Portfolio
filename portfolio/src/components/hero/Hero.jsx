@@ -31,10 +31,11 @@ export default function Hero() {
       <div className="hero-content">
         <p className="hero-eyebrow">FULL-STACK DEVELOPER · SEO HYUN SE</p>
 
+       
         <h1 className="hero-title">
-          시작부터<br />
-          끝까지 만드는<br />
-          <span>웹 서비스</span>
+          아이디어를<br />
+          실제로<br />
+          <span>돌아가게 만듭니다</span>
         </h1>
 
         <p className="hero-subtitle">
