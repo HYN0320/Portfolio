@@ -29,7 +29,7 @@ export default function Hero() {
 
       {/* CONTENT */}
       <div className="hero-content">
-        <p className="hero-eyebrow">FULL-STACK DEVELOPER · SEO HYUN SE</p>
+        <p className="hero-eyebrow">FULL-STACK DEVELOPER</p>
 
        
         <h1 className="hero-title">
